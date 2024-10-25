@@ -42,7 +42,7 @@ This is a personal project, but feel free to explore and suggest improvements. T
 
 ---
 
-For any questions or feedback, please contact me via [LinkedIn](https://linkedin.com/in/vivekbamnelkar) or email at vivek@example.com.
+For any questions or feedback, please contact me via [LinkedIn](https://linkedin.com/in/vivekbamnelkar) or email at bamnelkarvivek@gmail.com.
 
 ---
 &copy; 2024 Vivek Bamnelkar
